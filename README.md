@@ -20,8 +20,8 @@ This is a solution to the Product Preview Card Component challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add Live Site URL](https://live-site.com)
+- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Live Site URL: [Product Preview Card Component](https://product-preview-card-component-mu-five.vercel.app)
 
 ## My process
 
