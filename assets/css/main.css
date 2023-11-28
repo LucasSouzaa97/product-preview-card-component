@@ -6,16 +6,4 @@
     .disable-ligatures {
         font-feature-settings: 'clig' off, 'liga' off;
     }
-
-    .opsz-144 {
-        font-variation-settings: "opsz" 144;
-    }
-
-    .opsz-72 {
-        font-variation-settings: "opsz" 72;
-    }
-
-    .opsz-9 {
-        font-variation-settings: "opsz" 9;
-    }
 }
