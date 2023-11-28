@@ -7,6 +7,7 @@ export default {
         },
         colors: {
             dark_cyan: 'hsl(158, 36%, 37%)',
+            very_dark_cyan: 'hsl(149, 44%, 20%)',
             cream: 'hsl(30, 38%, 92%)',
             very_dark_blue: 'hsl(212, 21%, 14%)',
             dark_grayish_blue: 'hsl(228, 12%, 48%)',
@@ -17,7 +18,7 @@ export default {
             fraunces: ['Fraunces', 'serif'],
         },
         fontSize: {
-            body_copy: '14px',
+            body: '14px',
         },
         extend: {},
     },

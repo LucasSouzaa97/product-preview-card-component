@@ -2,12 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-    font-family: Monstserrat, sans-serif;
-    src: url("../fonts/Montserrat/Montserrat-VariableFont_wght.ttf");
-}
+@layer components {
+    .disable-ligatures {
+        font-feature-settings: 'clig' off, 'liga' off;
+    }
 
-@font-face {
-    font-family: Fraunces, serif;
-    src: url("../fonts/Fraunces/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf");
+    .opsz-144 {
+        font-variation-settings: "opsz" 144;
+    }
+
+    .opsz-72 {
+        font-variation-settings: "opsz" 72;
+    }
+
+    .opsz-9 {
+        font-variation-settings: "opsz" 9;
+    }
 }
